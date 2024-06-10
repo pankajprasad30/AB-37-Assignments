@@ -1,5 +1,3 @@
-//Show a program to print your name
-package Official_Assignments;
 
 public class Assignment_1 {
 
