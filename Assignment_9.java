@@ -1,5 +1,4 @@
 //WAP to perform subtraction, multiplication, division of two number
-package Official_Assignments;
 
 public class Assignment_9 {
 
