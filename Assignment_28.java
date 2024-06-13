@@ -1,5 +1,5 @@
 //WAP to print numbers from 100 - 0
-package Official_Assignments;
+//package Official_Assignments;
 
 public class Assignment_28 {
 
